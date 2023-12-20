@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Your-Name-Performance-Task"
+config/name="Shirleen-Ma-Semester01-Perfomance-Task"
 config/features=PackedStringArray("4.1", "Forward Plus")
 
 [display]
